@@ -1,23 +1,9 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Libraries
-*.lib
-*.a
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+*.sco
+key.c
+bad.c
+key.cpp
+bad.cpp
+security.cpp
+security.c
+out_sco/*
+*.txt
